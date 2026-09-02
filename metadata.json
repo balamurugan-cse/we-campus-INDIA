@@ -1,0 +1,6 @@
+{
+  "name": "CampusConnect India",
+  "description": "Comprehensive Indian college campus super-app for students, faculty, and administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
